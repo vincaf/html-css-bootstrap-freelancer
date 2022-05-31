@@ -33,3 +33,16 @@ header{
 .ms_star{
     font-size: 26px;
 }
+
+#section3{
+    background-color: #1abc9c;
+    color: #fff;
+}
+
+#section3 .container{
+    width: 50%;
+}
+
+#section3 span{
+    padding: 5px 10px;
+}
