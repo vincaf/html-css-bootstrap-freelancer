@@ -48,7 +48,7 @@ header{
     color: #fff;
 }
 
-#section5 span{
+#section5 .ms_rounded{
     padding: 8px 10px;
 }
 
