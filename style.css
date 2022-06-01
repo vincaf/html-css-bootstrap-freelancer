@@ -3,6 +3,10 @@ header{
     color: #fff;
 }
 
+section{
+    padding: 30px;
+}
+
 #section1{
     background-color: #1abc9c;
     color: #fff;
